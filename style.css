@@ -1,0 +1,15 @@
+body
+{align-content: center; background-color: burlywood;
+}
+legend{align-content: center;}
+fieldset
+{
+  background: linear-gradient(#FF671F,#ffffff,#046a38);
+  max-width:500px;
+  padding:16px;	
+}
+.legend1
+{
+  margin-bottom:0px;
+  margin-left:16px;
+}
